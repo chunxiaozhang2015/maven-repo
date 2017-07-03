@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.got5</groupId>
+  <artifactId>tapestry5-jquery-upload</artifactId>
+  <versioning>
+    <versions>
+      <version>4.2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170703035930</lastUpdated>
+  </versioning>
+</metadata>
